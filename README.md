@@ -1,3 +1,5 @@
-![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30&text=Rush-er&animation=twinkling&type=waving&fontColor=5AC18E&fontAlignY=100)
-![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30&animation=twinkling&type=waving&reversal=true&section=footer&text=Rush-er&fontColor=5AC18E&fontAlignY=0)
+
+
+![image info](https://i.imgur.com/kjI3mES.png)
+
 
